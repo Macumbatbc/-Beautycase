@@ -1,0 +1,2 @@
+# -Beautycase
+Dependency for nChat
